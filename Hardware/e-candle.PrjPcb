@@ -67,7 +67,7 @@ DocumentUniqueId=OAPRVABG
 
 [Document2]
 DocumentPath=PWR_BootBat.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -134,8 +134,8 @@ GenerateClassCluster=0
 DocumentUniqueId=FEZZQVGG
 
 [Document6]
-DocumentPath=MMU_LSD6D.SchDoc
-AnnotationEnabled=0
+DocumentPath=MMU_LSM6D.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -151,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YUTONNTX
 
 [Document7]
-DocumentPath=..\PCB.PcbDoc
+DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -165,7 +165,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AFJVJAVD
+DocumentUniqueId=KUMNKWJA
 
 [Configuration1]
 Name=Sources
